@@ -4,7 +4,7 @@ Welcome to my Python coding workspace! This repository tracks my hands-on progre
 
 ## 🎯 Goal & Workflow
 - **Focus:** Writing clean, readable Python code and mastering core logic.
-- **Consistency:** Updated every **7 days** with newly solved problems and refined solutions.
+- **Consistency:** Updated every **15 days** with newly solved problems and refined solutions.
 - **Organization:** Files are prefixed with numbers (`01`, `02`, etc.) to maintain a clear learning timeline.
 
 ## 🧠 Concepts in Progress
